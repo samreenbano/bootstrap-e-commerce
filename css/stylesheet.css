@@ -1,0 +1,130 @@
+
+.navbar-nav .nav-item .nav-link{
+    color:white;
+    padding:10px;
+}
+
+/* carousel */
+.carousel{
+    margin-top: 50px;
+}
+.carousel img{
+    height:600px;
+} 
+
+
+/* jambotron */
+.jumbotron .lead{
+    color:black;
+}
+
+
+
+
+
+/* grid */
+.panel-title{
+    text-align: center;
+}
+.row .col-12 .lead{
+    color:black;
+}
+.grid a{
+    color: black;
+}
+.grid li {
+    list-style-type: none !important;
+    
+}
+.grid{
+    color:black;
+   
+}
+.grid{
+    color: black;
+}
+.grid p{
+    color:black;
+}
+.feature{
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+/* location */
+.tab-content p{
+    color:black;
+}
+
+.tabbable .service{
+    margin-left: 20px;
+}
+
+
+
+/* footer */
+footer{
+    background: black;
+    margin-top:15px;
+}
+/* social */
+.fa{
+    padding: 20px;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+    text-decoration: none;
+    
+  
+  }
+  .panel{
+     text-align:center;
+  }
+  
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook-f {
+    background: #55ACEE;
+    color: white;
+    padding:15px;
+   
+    
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding:15px; 
+    margin-left: 35px;
+  
+  }
+
+
+
+.about, .help, .policy, .copy  {
+    color:white !important;
+    margin-left:45px;
+}
+
+#footer{
+    margin-left: 0;
+    margin-right: 0;
+}
+.unstyled li a{
+    color:white;
+    list-style:none;
+
+}
+
+.col-sm-3 h6,p{
+    color:white;
+}
+footer{
+    margin-top: 40px;
+}
+.list .unstyled{
+    list-style: none;
+}
